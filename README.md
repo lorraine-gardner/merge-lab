@@ -1,1 +1,3 @@
-# merge-lab
+# Merge Conflict Lab
+
+R. Tanner West
